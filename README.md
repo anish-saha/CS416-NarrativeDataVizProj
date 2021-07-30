@@ -1,10 +1,11 @@
 # Narrative Visualization Project
 
-## About This Visualiztion
+##### CS 416 - Data Visualization | Summer 2021 
+##### Anish Saha | Email: saha9@illinois.edu
 
-### Details:
-CS 416 - Data Visualization | Summer 2021
-Anish Saha | Email: saha9@illinois.edu
+<hr>
+
+## About This Visualiztion
 
 ### Live Demo: 
 https://anish-saha.github.io/CS416-NarrativeDataVizProj/
